@@ -1,10 +1,11 @@
 # 💫 About Me:
 Hi, my name is Simon Adeleke.<br>A student  Software Engineer at ALX.  <br>With passion for problem solving and building innovative solutions. <br>
+I'm open to collaborating on Software Engineering projects.
 
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/                                                                                                                                                                                           www.linkedin.com/in/simonadeleke) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simonadeleke)                                                                                                                                                                                           
 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@Drssims) 
 
