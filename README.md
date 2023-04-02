@@ -13,4 +13,4 @@ Hi, my name is Simon Adeleke.<br>Fullstack developer with passion for problem so
 ![](https://github-contributor-stats.vercel.app/api?username=Drsims&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Drsims&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Drsims&label=Profile%20Visits&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
